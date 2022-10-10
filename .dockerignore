@@ -1,0 +1,12 @@
+examples
+.git
+.github
+ci-cd-codepipeline.cfn.yml
+CODEOWNERS
+iam-role-policy.json
+simple_jwt_api.yml
+trust.json
+Dockerfile
+aws-auth-patch.yml
+buildspec.yml
+.gitignore
